@@ -1,4 +1,4 @@
-Type,Brand,Product Name,Protein (%),Fat (%),Fiber (%),Sodium (%),Class
+Type,Brand,Product Name,Protein,Fat,Fiber,Sodium,Class
 Dog,BrandA,Premium Dog Food 1,25.5,8.7,3.2,0.3,0
 Cat,BrandB,Premium Cat Food 2,34.5,19.9,2.0,0.7,1
 Dog,BrandC,Premium Dog Food 3,22.4,17.3,5.7,0.3,0
